@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/shoppingCart/main",
+    "pages/submitOrder/main",
+    "pages/me/main",
+    "pages/expiredRedPacket/main",
+    "pages/expiredCoupon/main",
+    "pages/redPacket/main",
+    "pages/couponList/main",
+    "pages/categoryList/main",
+    "pages/selectAddress/main",
+    "pages/searchList/main",
+    "pages/addAddress/main",
+    "pages/orderList/main",
+    "pages/remark/main",
+    "pages/citySearch/main",
+    "pages/citys/main",
+    "pages/index/main",
+    "pages/addressList/main",
+    "pages/protocol/main",
+    "pages/feedback/main",
+    "pages/pickProtocol/main",
+    "pages/orderDetail/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#000",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "list": [{
+        "pagePath": "pages/home/main",
+        "text": "首页",
+        "iconPath": "static/images/icon_tabbar_home@3x.png",
+        "selectedIconPath": "static/images/icon_tabbar_home_selected@3x.png"
+      },
+      {
+        "pagePath": "pages/orderList/main",
+        "text": "订单",
+        "iconPath": "static/images/icon_tabbar_order@3x.png",
+        "selectedIconPath": "static/images/icon_tabbar_order_selected@3x.png"
+      },
+      {
+        "pagePath": "pages/me/main",
+        "text": "我的",
+        "iconPath": "static/images/icon_tabbar_mine@3x.png",
+        "selectedIconPath": "static/images/icon_tabbar_mine_selected@3x.png"
+      }
+    ]
+  }
+}
