@@ -1,6 +1,3 @@
-/**
- * Created by guangqiang on 2017/10/3.
- */
 
 import {getFetch, postFetch, putFetch, getFetchFromCache, postFetchForValidator} from '@/network/request/HttpExtension'
 import {PATH} from '@/constants/pathConfig'
