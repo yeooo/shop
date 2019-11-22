@@ -1,6 +1,3 @@
-/**
- * Created by guangqiang on 2017/10/3.
- */
 
 /** 封装的基于Fetch网络请求工具类 **/
 
